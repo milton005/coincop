@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mnbv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_clr" >
+
+
+    <RelativeLayout
+        android:id="@+id/x"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edittext_hight"
+        android:layout_alignParentTop="true"
+        android:background="@color/primary_clr" >
+
+        <ImageView
+            android:id="@+id/backBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding"
+            android:src="@drawable/ic_action_back" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Set Reminder"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imgOK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding"
+                android:src="@drawable/ic_action_accept" />
+        </LinearLayout>
+       
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/x" >
+
+        <RelativeLayout
+            android:id="@+id/vvv"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:padding="3dp" >
+
+            <EditText
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/card_bg_rem"
+                android:gravity="top"
+                android:hint="description"
+                android:inputType="text|none"
+                android:paddingLeft="@dimen/padding"
+                android:paddingRight="@dimen/padding"
+                android:textColor="@android:color/black"
+                android:textColorHint="@color/secondry_text" />
+        </RelativeLayout>
+        <!--
+            <LinearLayout
+                android:id="@+id/vbn"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/vvv"
+                android:gravity="left|center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/padding_"
+                android:paddingRight="@dimen/padding_" >
+
+                <LinearLayout
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/calander_bg_user_select"
+                    android:orientation="vertical" />
+
+                <TextView
+                    android:id="@+id/dateSelected"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/padding"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+        -->
+
+        <RelativeLayout
+            android:id="@+id/topview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/vvv" >
+
+            <RelativeLayout
+                android:id="@+id/top"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:orientation="horizontal"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp" >
+
+                <ImageButton
+                    android:id="@+id/prevMonth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:background="@android:color/transparent"
+                    android:padding="@dimen/padding"
+                    android:src="@drawable/side_menu_aro" />
+
+                <ImageButton
+                    android:id="@+id/nextMonth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:background="@android:color/transparent"
+                    android:padding="@dimen/padding"
+                    android:src="@drawable/side_menu_right_arow" />
+
+                <TextView
+                    android:id="@+id/curntMonth"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/nextMonth"
+                    android:layout_toRightOf="@+id/prevMonth"
+                    android:gravity="center"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                    android:textColor="@android:color/white" />
+            </RelativeLayout>
+            <GridView
+                android:id="@+id/calendar_week"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:clickable="false"
+                android:listSelector="@android:color/transparent"
+                android:numColumns="7"
+                android:layout_below="@+id/top"
+
+                android:visibility="visible"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="8dp"
+                android:layout_marginEnd="8dp" />
+            <com.mindbees.expenditure.ui.ExpandableHeightGridView
+                android:id="@+id/calendar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/calendar_week"
+                android:background="@android:color/transparent"
+                android:listSelector="@android:color/transparent"
+                android:numColumns="7"
+
+                android:visibility="visible" >
+            </com.mindbees.expenditure.ui.ExpandableHeightGridView>
+
+
+        </RelativeLayout>
+
+         <!--<LinearLayout-->
+            <!--android:id="@+id/aaaa"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/topview"-->
+            <!--android:layout_marginBottom="@dimen/padding_"-->
+            <!--android:layout_marginTop="@dimen/padding_"-->
+            <!--android:gravity="center"-->
+            <!--android:orientation="vertical"-->
+            <!--android:paddingLeft="@dimen/padding_"-->
+            <!--android:paddingRight="@dimen/padding_" >-->
+
+            <!--<Button-->
+                <!--android:id="@+id/btnSetAlarm"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:background="@drawable/time_bg_hr"-->
+                <!--android:text="Set Alarm"-->
+                <!--android:textAllCaps="false"-->
+                <!--android:textColor="@color/white" />-->
+        <!--</LinearLayout>-->
+
+        <LinearLayout
+            android:id="@+id/bbb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topview"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="visible" >
+            
+            <TextView
+                android:id="@+id/timeset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="Time"
+                android:layout_marginTop="@dimen/padding_"
+                android:textColor="@color/white"
+                android:textAppearance="@android:style/TextAppearance.Large" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="@dimen/padding"
+                android:text="Repeat"
+                android:textColor="@color/white"
+                android:textAppearance="@android:style/TextAppearance.Medium" />
+
+            <LinearLayout
+                android:id="@+id/alrmType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/padding"
+                android:paddingRight="@dimen/padding"
+                 >
+
+                <RadioGroup
+                    android:id="@+id/toggleGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="3dp" >
+
+                        <ToggleButton
+                            android:id="@+id/toggleButtonDaily"
+                            android:layout_width="@dimen/toggle_btn_height"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:background="@drawable/custom_toggle_daily"
+                            android:checked="false"
+                            android:text=""
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="3dp" >
+
+                        <ToggleButton
+                            android:id="@+id/toggleButtonweekly"
+                            android:layout_width="@dimen/toggle_btn_height"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:background="@drawable/custom_toggle_weekly"
+                            android:checked="false"
+                            android:text=""
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="3dp" >
+
+                        <ToggleButton
+                            android:id="@+id/toggleButtonMonthly"
+                            android:layout_width="@dimen/toggle_btn_height"
+                            android:layout_height="70dp"
+                            android:background="@drawable/custom_toggle_monthly"
+                            android:checked="false"
+                            android:text=""
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="3dp" >
+
+                        <ToggleButton
+                            android:id="@+id/toggleButtonYearly"
+                            android:layout_width="@dimen/toggle_btn_height"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:background="@drawable/custom_toggle_yearly"
+                            android:checked="false"
+                            android:text=""
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+                </RadioGroup>
+            </LinearLayout>
+            
+        </LinearLayout>
+
+        <!--
+                 <View
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@+id/aaaa"
+                android:background="@android:color/transparent" />
+        -->
+    </RelativeLayout>
+   <!--  <FrameLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/primary_clr" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ToggleButton
+                android:id="@+id/imgSetAlarm"
+                android:layout_width="38dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/padding"
+                android:background="@drawable/custom_toggle"
+                android:checked="false"
+                android:text=""
+                android:textOff=""
+                android:textOn="" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/padding"
+                android:layout_toRightOf="@+id/imgSetAlarm"
+                android:text="Set Alarm"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:textColor="@android:color/white" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:background="@android:color/white"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/imgOK"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding"
+                    android:src="@drawable/reminder_tick_line" />
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout> -->
+
+</RelativeLayout>

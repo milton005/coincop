@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\type_icon_zoom.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\type_icon_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_translate_top_btm.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\activity_open_translate_top_btm.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_translate_btm.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\activity_open_translate_btm.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splah_bg_top_btm.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\splah_bg_top_btm.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_translate_top_btm.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\activity_close_translate_top_btm.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_anim.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\rotate_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\zoomin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_scale.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\activity_close_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_scale.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\activity_open_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_icon_zoom.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\splash_icon_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_translate_btm.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\activity_close_translate_btm.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_btn_zoom.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\anim\\fab_btn_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    }
+]

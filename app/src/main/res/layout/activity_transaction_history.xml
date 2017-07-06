@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/noViewLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/no_reports"
+        android:textColor="@color/secondry_text"
+        android:visibility="visible" />
+    <RelativeLayout
+        android:id="@+id/x"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edittext_hight"
+        android:layout_alignParentTop="true"
+        android:background="@color/primary_clr" >
+
+        <ImageView
+            android:id="@+id/backBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="@dimen/padding"
+            android:src="@drawable/ic_action_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Transaction History"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+    <Spinner
+        android:id="@+id/year"
+        android:background="@color/gray_light_trans"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edittext_hight"
+        android:layout_below="@+id/x"
+
+        android:ems="10"
+        android:singleLine="true"
+        android:spinnerMode="dropdown" >
+    </Spinner>
+    <Spinner
+        android:id="@+id/month"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edittext_hight"
+        android:ems="10"
+        android:layout_marginBottom="7dp"
+        android:layout_below="@+id/year"
+        android:background="@color/gray_light_trans"
+        android:singleLine="true"
+        android:spinnerMode="dropdown" >
+    </Spinner>
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/month"
+        android:id="@+id/recyclerView_transaction"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+</RelativeLayout>

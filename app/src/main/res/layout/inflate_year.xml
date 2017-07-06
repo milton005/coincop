@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="7dp"
+    android:paddingBottom="3.5dp"
+    android:orientation="vertical" >
+
+    <!--<RelativeLayout-->
+    <!--android:id="@+id/bg"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:paddingTop="10dp"-->
+    <!--android:paddingBottom="10dp"-->
+    <!--android:paddingLeft="15dp"-->
+    <!--android:paddingRight="15dp" >-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/calendar_month"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:textColor="@android:color/white"-->
+    <!--android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small" >-->
+    <!--</TextView>-->
+    <!--</RelativeLayout>-->
+
+    <!--</RelativeLayout>-->
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/textDistrict"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="@color/white"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@color/primary_clr" >
+
+    </TextView>
+</RelativeLayout>

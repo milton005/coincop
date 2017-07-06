@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding" >
+
+        <com.mindbees.expenditure.ui.CircularContactView
+            android:id="@+id/dayLetter"
+            android:layout_width="@dimen/category_viewpager_item_height"
+            android:layout_height="@dimen/category_viewpager_item_height"
+            android:layout_alignParentLeft="true" >
+        </com.mindbees.expenditure.ui.CircularContactView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/dayLetter"
+            android:layout_toLeftOf="@+id/sym"
+            android:layout_toRightOf="@+id/dayLetter"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/padding" >
+
+            <TextView
+                android:id="@+id/textday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/textCategory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textColor="@color/secondry_text"
+                 />
+
+            <TextView
+                android:id="@+id/textbank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textColor="@color/secondry_text"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <!--
+        <LinearLayout
+            android:id="@+id/sym"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/lay1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible" >
+                
+                <TextView
+                    android:id="@+id/q"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Income"
+                    android:paddingRight="@dimen/padding"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/secondry_text" />
+
+                <TextView
+                    android:id="@+id/symbol1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="sss"
+                    android:layout_toEndOf="@+id/q"
+                    android:layout_toRightOf="@+id/q"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/secondry_text" />
+
+                <TextView
+                    android:id="@+id/amount1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/symbol1"
+                    android:layout_toRightOf="@+id/symbol1"
+                    android:text="nnn"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/primary_clr" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/lay2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible" >
+
+                <TextView
+                    android:id="@+id/symbol2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="sss"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/secondry_text" />
+
+                <TextView
+                    android:id="@+id/amount2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/symbol2"
+                    android:layout_toRightOf="@+id/symbol2"
+                    android:text="nnn"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/primary_clr" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/lay3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible" >
+                
+                 <TextView
+                    android:id="@+id/q3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Expense"
+                    android:paddingRight="@dimen/padding"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/secondry_text" />
+
+                <TextView
+                    android:id="@+id/symbol3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="sss"
+                    android:layout_toEndOf="@+id/q3"
+                    android:layout_toRightOf="@+id/q3"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/secondry_text" />
+
+                <TextView
+                    android:id="@+id/amount3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/symbol3"
+                    android:layout_toRightOf="@+id/symbol3"
+                    android:text="nnn"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/primary_clr" />
+            </RelativeLayout>
+        </LinearLayout>
+        -->
+
+        <RelativeLayout
+           android:id="@+id/sym"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:visibility="visible" >
+
+            <TextView
+                android:id="@+id/symbol2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:textColor="@color/primary_clr" />
+
+            <TextView
+                android:id="@+id/amount2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/symbol2"
+                android:layout_toRightOf="@+id/symbol2"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:textColor="@color/primary_clr" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

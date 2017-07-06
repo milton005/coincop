@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/parentView"
+    android:background="@drawable/login_pge_bg" >
+
+    <LinearLayout
+        android:id="@+id/bottomLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/registerNow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/red"
+            android:padding="@dimen/padding" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@android:color/transparent"
+                android:padding="@dimen/padding"
+                android:src="@drawable/register_now_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Register Now"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center|left"-->
+            <!--android:orientation="vertical" >-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/imgBack"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:background="@android:color/transparent"-->
+                <!--android:padding="@dimen/padding"-->
+                <!--android:src="@drawable/ic_action_back" />-->
+        <!--</LinearLayout>-->
+
+        <ImageView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="18dp"
+            android:src="@drawable/register_now" />
+
+        <EditText
+            android:id="@+id/editFullName"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_hight"
+            android:layout_marginBottom="@dimen/padding"
+            android:layout_marginTop="@dimen/padding"
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/register_user"
+            android:drawablePadding="7dp"
+            android:drawableStart="@drawable/register_user"
+            android:hint="NAME"
+            android:focusableInTouchMode="true"
+            android:inputType="text"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/secondry_text" />
+
+        <EditText
+            android:id="@+id/editEmail"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_hight"
+            android:layout_marginBottom="@dimen/padding"
+            android:layout_marginTop="@dimen/padding"
+            android:focusableInTouchMode="true"
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/login_email"
+            android:drawablePadding="@dimen/padding"
+            android:drawableStart="@drawable/login_email"
+            android:hint="EMAIL"
+            android:inputType="textEmailAddress"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/secondry_text" />
+
+        <EditText
+            android:id="@+id/editPassword"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_hight"
+            android:layout_marginBottom="@dimen/padding"
+            android:layout_marginTop="@dimen/padding"
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/login_paswrd"
+            android:drawablePadding="13dp"
+            android:drawableStart="@drawable/login_paswrd"
+            android:hint="PASSWORD"
+            android:focusableInTouchMode="true"
+            android:inputType="textPassword"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/secondry_text" />
+
+        <!--
+             <Spinner
+            android:id="@+id/spinCountry"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_hight"
+            android:layout_marginTop="@dimen/padding"
+            android:background="@android:color/white"
+            android:hint="COUNTRY"
+            android:spinnerMode="dialog" />
+        -->
+    </LinearLayout>
+
+</RelativeLayout>

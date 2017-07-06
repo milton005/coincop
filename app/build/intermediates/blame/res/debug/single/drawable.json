@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_noraml.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tab_noraml.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicater_list.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\indicater_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selecteddd.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tab_selecteddd.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time_bg_hr.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\time_bg_hr.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selector.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_barr.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector_tab_barr.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_bg_desc.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\card_bg_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\divider_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_clr.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\layout_clr.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mian_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\mian_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_toggle_monthly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\custom_toggle_monthly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_bg_rem.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\card_bg_rem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_bar_report_yearly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector_tab_bar_report_yearly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\month_bg_user_select.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\month_bg_user_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrl_vertical_track.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\scrl_vertical_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reminder_green_tick.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\reminder_green_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_bar_report_monthly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector_tab_bar_report_monthly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_bar_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector_tab_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_noramll.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tab_noramll.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tut3.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tut3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_toggle_yearly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\custom_toggle_yearly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_bar.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector_tab_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_clr_yellow.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\layout_clr_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time_bg_section.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\time_bg_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calander_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\calander_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calander_bg_user_select_report.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\calander_bg_user_select_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splsh_bg_anim.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\splsh_bg_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tut5.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tut5.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_bar_report_daily.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector_tab_bar_report_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_a_tour.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\take_a_tour.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pichart_top_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\pichart_top_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tut4.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tut4.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calander_bg_user_select.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\calander_bg_user_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tut1.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tut1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_toggle.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\custom_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_tick.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\select_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\category_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tut2.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\tut2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_toggle_daily.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\custom_toggle_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pichart_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\pichart_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\85ba374059fdc37103a66f626217202cfa6ff93d\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pichart_bottom_bg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\pichart_bottom_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_toggle_weekly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\custom_toggle_weekly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_crop_button.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\simple-crop-image-lib\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_crop_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrol_vertical_thumb.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable\\scrol_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    }
+]

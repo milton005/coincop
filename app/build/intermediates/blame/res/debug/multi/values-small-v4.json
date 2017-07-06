@@ -1,0 +1,501 @@
+[
+    {
+        "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 46,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 45,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 45,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 50,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 50,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 50,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 50,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 44,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 44,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 47,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 47,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 49,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 49,
+                        "endOffset": 1002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 50,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 50,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 47,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 47,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 47,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 47,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 44,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 44,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 46,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 8,
+                        "startOffset": 818,
+                        "endColumn": 50,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 46,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 46,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 37,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 37,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 39,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 39,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 42,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 42,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 49,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 49,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 38,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 263,
+                        "endColumn": 39,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 49,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 49,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 43,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endColumn": 43,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 52,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 52,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 54,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 54,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endColumn": 53,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 53,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endColumn": 42,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 42,
+                        "endOffset": 764
+                    }
+                }
+            }
+        ]
+    }
+]

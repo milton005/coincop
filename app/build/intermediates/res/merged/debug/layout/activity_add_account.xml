@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parentView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC000000"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/topEmptyView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/reside_menu_toolbar"
+        android:layout_alignParentTop="true"
+        android:gravity="right|center_vertical" >
+
+        <ImageView
+            android:id="@+id/closeBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/padding"
+            android:src="@drawable/ic_action_accept" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/topEmptyView"
+        android:background="@color/primary_clr"
+        android:orientation="vertical"
+        android:padding="@dimen/padding" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/card_bg_desc"
+            android:padding="3dp" >
+
+            <EditText
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_hight_desc"
+                android:background="@color/primary_clr"
+                android:gravity="center_vertical"
+                android:hint="Account Name"
+                android:textAllCaps="false"
+                android:inputType="textCapCharacters"
+                android:textColor="@android:color/white"
+                android:textColorHint="@color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding"
+            android:background="@drawable/card_bg_desc"
+            android:padding="3dp" >
+
+            <TextView
+                android:id="@+id/currency"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:paddingRight="@dimen/padding"
+                android:textAppearance="@android:style/TextAppearance.Medium"
+                android:textColor="@android:color/white" />
+
+            <EditText
+                android:id="@+id/amount"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_hight_desc"
+                android:layout_toRightOf="@+id/currency"
+                android:background="@color/primary_clr"
+                android:gravity="center_vertical"
+                android:hint="Initial Balance 0"
+                android:inputType="numberDecimal"
+                android:textColor="@android:color/white"
+                android:textColorHint="@color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/bbb"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <!--
+             <ImageView
+            android:id="@+id/closeBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/padding"
+            android:src="@drawable/add_close_icon" />
+            -->
+           <!--  <com.mindbees.expenditure.ui.FloatingActionButton
+                android:id="@+id/imgOK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:background="@android:color/transparent"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:elevation="4dp"
+                android:visibility="visible"
+                fab:fab_colorNormal="@color/deep_orange"
+                fab:fab_colorPressed="@color/primary_clr"
+                fab:fab_icon="@drawable/ic_action_cancel"
+                fab:fab_size="normal" /> -->
+
+
+                <ImageView
+                    android:id="@+id/imgOK"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginEnd="16dp"
+                    android:layout_marginRight="16dp"
+                    android:background="@android:color/transparent"
+                    android:padding="@dimen/padding"
+                    android:visibility="visible"
+                    android:src="@drawable/ic_action_cancel" />
+        </RelativeLayout>
+    </FrameLayout>
+
+</RelativeLayout>

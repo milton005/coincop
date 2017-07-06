@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+     >
+
+    <RelativeLayout
+        android:id="@+id/parentView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+         >
+
+        <FrameLayout
+            android:id="@+id/layoutFrame"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/black"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/im_cover_photo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_tab" >
+
+                <com.mindbees.expenditure.ui.RoundedImageView
+                    android:id="@+id/im_user_profile_pic"
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:layout_above="@+id/tv_user_name"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/padding_tab"
+                    android:background="@null"
+                    android:padding="3dip"
+                    android:scaleType="centerCrop"
+                    app:corner_radius="150dp" />
+
+                <ImageView
+                    android:id="@+id/imageEdit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/im_user_profile_pic"
+                    android:layout_alignRight="@+id/im_user_profile_pic"
+                    android:layout_alignTop="@+id/im_user_profile_pic"
+                    android:src="@drawable/edit_image" />
+
+                <EditText
+                    android:id="@+id/tv_user_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:drawableLeft="@drawable/edit_name"
+                    android:drawablePadding="@dimen/padding"
+                    android:drawableStart="@drawable/edit_name"
+                    android:gravity="center"
+                    android:hint="name"
+                    android:paddingTop="3dp"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </FrameLayout>
+
+<android.support.v4.widget.NestedScrollView
+    android:layout_width="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:layout_below="@+id/layoutFrame"
+    android:fillViewport="true"
+
+
+
+    android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:id="@+id/view"
+
+            android:layout_height="wrap_content"
+            >
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/padding"
+                android:background="@color/light_gray"
+                android:elevation="4dp"
+                card:elevation="4dp" >
+
+                <RelativeLayout
+                    android:id="@+id/lauoutPAss"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:visibility="gone" >
+
+                    <com.mindbees.expenditure.ui.CircularContactView
+                        android:id="@+id/imgLeftIconPassword"
+                        android:layout_width="@dimen/circle_h"
+                        android:layout_height="@dimen/circle_h"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:padding="5dp" />
+
+                    <TextView
+                        android:id="@+id/textviewPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toEndOf="@+id/imgLeftIconPassword"
+                        android:layout_toRightOf="@+id/imgLeftIconPassword"
+                        android:padding="3dp"
+                        android:singleLine="true"
+                        android:text="Change Password"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:textColor="@color/secondry_text" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:padding="@dimen/padding"
+                        android:src="@drawable/ic_action_next_item" />
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/card1"
+                android:layout_marginLeft="@dimen/padding"
+                android:layout_marginRight="@dimen/padding"
+                android:background="@color/light_gray"
+                android:elevation="4dp"
+                card:elevation="4dp" >
+
+                <RelativeLayout
+                    android:id="@+id/lauoutEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:visibility="gone" >
+
+                    <com.mindbees.expenditure.ui.CircularContactView
+                        android:id="@+id/imgLeftIconEmail"
+                        android:layout_width="@dimen/circle_h"
+                        android:layout_height="@dimen/circle_h"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:padding="5dp" />
+
+                    <TextView
+                        android:id="@+id/textviewEmail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toEndOf="@+id/imgLeftIconEmail"
+                        android:layout_toRightOf="@+id/imgLeftIconEmail"
+                        android:padding="3dp"
+                        android:singleLine="true"
+                        android:text="Email"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:textColor="@color/secondry_text" />
+
+                    <EditText
+                        android:id="@+id/userEmail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/edittext_hight_"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="@dimen/padding"
+                        android:layout_marginRight="@dimen/padding"
+                        android:layout_toEndOf="@+id/textviewEmail"
+                        android:layout_toRightOf="@+id/textviewEmail"
+                        android:background="@null"
+                        android:gravity="end|center_vertical"
+                        android:inputType="textEmailAddress"
+                        android:paddingLeft="5dp"
+                        android:paddingStart="5dp"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:textColor="@android:color/black" />
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/card2"
+                android:layout_margin="@dimen/padding"
+                android:background="@color/light_gray"
+                android:elevation="4dp"
+                card:elevation="4dp" >
+
+                <RelativeLayout
+                    android:id="@+id/lauoutCurrency"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp" >
+
+                    <com.mindbees.expenditure.ui.CircularContactView
+                        android:id="@+id/imgLeftIconLogout"
+                        android:layout_width="@dimen/circle_h"
+                        android:layout_height="@dimen/circle_h"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:padding="5dp" />
+
+                    <TextView
+                        android:id="@+id/textviewLogout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toEndOf="@+id/imgLeftIconLogout"
+                        android:layout_toRightOf="@+id/imgLeftIconLogout"
+                        android:padding="3dp"
+                        android:singleLine="true"
+                        android:text="Currency"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:textColor="@color/secondry_text" />
+
+                    <TextView
+                        android:id="@+id/textSymbol"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="@dimen/padding"
+                        android:layout_marginRight="@dimen/padding"
+                        android:layout_toEndOf="@+id/textviewLogout"
+                        android:layout_toRightOf="@+id/textviewLogout"
+                        android:gravity="end|center_vertical"
+                        android:padding="3dp"
+                        android:singleLine="true"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                        android:textColor="@color/secondry_text" />
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/card3"
+                android:layout_marginLeft="@dimen/padding"
+                android:layout_marginBottom="50dp"
+                android:layout_marginRight="@dimen/padding"
+                android:background="@color/light_gray"
+                android:elevation="4dp"
+                card:elevation="4dp" >
+
+                <RelativeLayout
+                    android:id="@+id/lauoutContact"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    >
+
+                    <com.mindbees.expenditure.ui.CircularContactView
+                        android:id="@+id/imgLeftIconContact"
+                        android:layout_width="@dimen/circle_h"
+                        android:layout_height="@dimen/circle_h"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:padding="5dp" />
+
+                    <TextView
+                        android:id="@+id/textviewContact"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toEndOf="@+id/imgLeftIconContact"
+                        android:layout_toRightOf="@+id/imgLeftIconContact"
+                        android:padding="3dp"
+                        android:singleLine="true"
+                        android:text="Contact"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                        android:textColor="@color/secondry_text" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:padding="@dimen/padding"
+                        android:src="@drawable/ic_action_next_item" />
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <!--<android.support.v7.widget.CardView-->
+                <!--android:id="@+id/card5"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/card4"-->
+                <!--android:layout_margin="@dimen/padding"-->
+                <!--android:background="@color/light_gray"-->
+                <!--android:elevation="4dp"-->
+                <!--card:elevation="4dp" >-->
+
+                <!--<RelativeLayout-->
+                    <!--android:id="@+id/lauout"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="80dp" >-->
+
+                    <!--<com.mindbees.expenditure.ui.CircularContactView-->
+                        <!--android:id="@+id/imgLeftIconSignout"-->
+                        <!--android:layout_width="@dimen/circle_h"-->
+                        <!--android:layout_height="@dimen/circle_h"-->
+                        <!--android:layout_alignParentLeft="true"-->
+                        <!--android:layout_alignParentStart="true"-->
+                        <!--android:layout_centerVertical="true"-->
+                        <!--android:background="@android:color/transparent"-->
+                        <!--android:padding="5dp" />-->
+
+                    <!--<TextView-->
+                        <!--android:id="@+id/textviewSignout"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_centerVertical="true"-->
+                        <!--android:layout_toEndOf="@+id/imgLeftIconSignout"-->
+                        <!--android:layout_toRightOf="@+id/imgLeftIconSignout"-->
+                        <!--android:padding="3dp"-->
+                        <!--android:singleLine="true"-->
+                        <!--android:text="Logout"-->
+                        <!--android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"-->
+                        <!--android:textColor="@color/secondry_text" />-->
+
+                    <!--&lt;!&ndash;-->
+                         <!--<TextView-->
+                        <!--android:id="@+id/textSymbol"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_centerVertical="true"-->
+                        <!--android:layout_toEndOf="@+id/textviewLogout"-->
+                        <!--android:layout_toRightOf="@+id/textviewLogout"-->
+                        <!--android:padding="3dp"-->
+                        <!--android:singleLine="true"-->
+                        <!--android:gravity="end|center_vertical"-->
+                        <!--android:layout_marginEnd="@dimen/padding"-->
+                        <!--android:layout_marginRight="@dimen/padding"-->
+                        <!--android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"-->
+                        <!--android:textColor="@color/secondry_text" />-->
+                    <!--&ndash;&gt;-->
+                <!--</RelativeLayout>-->
+            <!--</android.support.v7.widget.CardView>-->
+        </RelativeLayout>
+</android.support.v4.widget.NestedScrollView>
+
+
+    <FrameLayout
+        android:id="@+id/bottomLayout"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <RelativeLayout
+                android:id="@+id/logOut"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@color/primary_clr"
+                android:padding="@dimen/padding" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:background="@android:color/transparent"
+                    android:padding="@dimen/padding"
+                    android:src="@drawable/ic_action_logout" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Logout"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                    android:textColor="@android:color/white" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

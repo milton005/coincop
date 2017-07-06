@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_pge_bg" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottomLayout"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_" >
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center|left"-->
+            <!--android:orientation="vertical" >-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/imgBack"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:padding="@dimen/padding"-->
+                <!--android:src="@drawable/ic_action_back" />-->
+        <!--</LinearLayout>-->
+
+        <ImageView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="18dp"
+            android:src="@drawable/signing_now_txt" />
+
+        <EditText
+            android:id="@+id/editEmail"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_hight"
+            android:layout_marginBottom="@dimen/padding"
+            android:layout_marginTop="@dimen/padding"
+
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/login_email"
+            android:drawableStart="@drawable/login_email"
+            android:drawablePadding="@dimen/padding"
+            android:hint="EMAIL"
+            android:inputType="textEmailAddress"
+
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/secondry_text" />
+
+        <EditText
+            android:id="@+id/editPassword"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_hight"
+            android:layout_marginTop="@dimen/padding"
+            android:layout_marginBottom="@dimen/padding"
+            android:background="@android:color/white"
+            android:drawableLeft="@drawable/login_paswrd"
+            android:drawableStart="@drawable/login_paswrd"
+            android:drawablePadding="12dp"
+            android:hint="PASSWORD"
+            android:inputType="textPassword"
+
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/secondry_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottomLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/loginNow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primary_clr"
+            android:padding="@dimen/padding" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@android:color/transparent"
+                android:padding="@dimen/padding"
+                android:src="@drawable/login_login_now" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Login Now"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_clr">#2294d2</color>
+    <color name="dark_primary_clr">#2294d2</color>
+    <color name="light_primary_color">#BBDEFB</color>
+    <color name="acent_color">#607D8B</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondry_text">#727272</color>
+    <color name="divider_report">#CCCCCC</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="black">#000000</color>
+    <color name="black_trans">#CCFFFFFF</color>
+    <color name="list_selector">#F57C00</color>
+    <color name="fb_color">#3b5998</color>
+    <color name="red">#F1263D</color>
+    <color name="deep_orange">#FF5722</color>
+    <color name="light_gray">#EBEBEB</color>
+    <color name="grid_bg">#E4E4E4</color>
+    <color name="brown">#EFEBE9</color>
+    <color name="blue_">#2282cc</color>
+    <color name="black_tarans">#80000000</color>
+    <color name="black_transs">#CC000000</color>
+    <color name="calnder_select">#58E600</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="orange">#FF6B53</color>
+    <color name="catgory_tab">#E66F26</color>
+    <color name="green">#7ECE0D</color>
+    <color name="light_green">#CBDE5F</color>
+    <color name="fab_clr_normal">#304555</color>
+    <color name="cat_tab_color">#FFC107</color>
+    <color name="primary_dark">#197DB3</color>
+    <color name="settings_icon_bg">#C0CFD7</color>
+    
+    <color name="primary_clr_transperent">#802294d2</color>
+    <color name="primary_clr_trans_80">#CC2294d2</color>
+    <color name="gray_light_trans">#80CCCCCC</color>
+
+    <!-- fab -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#80FFFFFF</color>
+    <color name="black_semi_transparent">#60000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_fab">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <integer-array name="contacts_text_background_colors">
+        <item>0xFF7ecd0d</item>
+        <item>0xFF97989c</item>
+        <item>0xFFff6c54</item>
+        <item>0xFFef8cba</item>
+        <item>0xFF76acf7</item>
+        <item>0xFFa362f2</item>
+        <item>0xFFecc613</item>>
+    </integer-array>
+    
+    <integer-array name="category_bg_color">
+        <item>0xFF7ecd0d</item> <!-- Green -->
+        <item>0xFF97989c</item> <!-- Grey -->
+        <item>0xFFff6c54</item> <!-- Red -->
+        <item>0xFFef8cba</item> <!-- Pink -->
+        <item>0xFF76acf7</item> <!-- Blue -->
+        <item>0xFFa362f2</item> <!-- Purple -->
+        <item>0xFFecc613</item> <!-- Yellow -->
+    </integer-array>
+
+    <!-- cardview -->
+
+
+    <!-- Background color for light CardView. -->
+    <!--
+    <color name="cardview_light_background">#FFFAFAFA</color>
+	Background color for dark CardView.
+	<color name="cardview_dark_background">#FF202020</color>
+    Shadow color for the first pixels around CardView.
+    <color name="cardview_shadow_start_color">#37000000</color>
+    Shadow color for the furthest pixels around CardView.
+    <color name="cardview_shadow_end_color">#03000000</color>
+    -->
+
+</resources>

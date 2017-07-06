@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mindbees.expenditure.ui.circular.FrameLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.mindbees.expenditure.ui.circular.widget.RevealFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <RelativeLayout
+                android:id="@+id/topview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/bg_half" >
+
+                <RelativeLayout
+                    android:id="@+id/top"
+                    android:layout_width="match_parent"
+                    android:layout_height="42dp"
+                    android:background="@color/primary_clr"
+                    android:orientation="horizontal"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp" >
+
+                    <ImageButton
+                        android:id="@+id/prevMonth"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:padding="@dimen/padding"
+                        android:src="@drawable/side_menu_aro" />
+
+                    <ImageButton
+                        android:id="@+id/nextMonth"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:padding="@dimen/padding"
+                        android:src="@drawable/side_menu_right_arow" />
+
+                    <TextView
+                        android:id="@+id/curntMonth"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/nextMonth"
+                        android:layout_toRightOf="@+id/prevMonth"
+                        android:gravity="center"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                        android:textColor="@android:color/white" />
+                </RelativeLayout>
+
+                <GridView
+                    android:padding="10dp"
+                    android:id="@+id/calendar_week"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/top"
+                    android:background="@android:color/transparent"
+                    android:clickable="false"
+                    android:listSelector="@android:color/transparent"
+                    android:numColumns="7"
+
+
+
+                    android:visibility="visible" />
+
+                <GridView
+                    android:id="@+id/calendar"
+                    android:padding="10dp"
+                    android:layout_marginBottom="10dp"
+
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/calendar_week"
+                    android:background="@android:color/transparent"
+                    android:listSelector="@android:color/transparent"
+                    android:numColumns="7"
+
+                    android:visibility="visible" >
+                </GridView>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:layout_below="@+id/topview"
+                android:background="@color/white" >
+
+                <RelativeLayout
+                    android:id="@+id/viewHeading"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_below="@+id/addData"
+                    android:layout_marginTop="@dimen/padding_tab" >
+
+                    <View
+                        android:id="@+id/leftBar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/textListHHeading"
+                        android:layout_alignParentLeft="true"
+                        android:layout_toLeftOf="@+id/textListHHeading"
+                        android:background="@color/light_gray" />
+
+                    <TextView
+                        android:id="@+id/textListHHeading"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="15dp"
+                        android:layout_centerHorizontal="true"
+                        android:paddingLeft="@dimen/padding"
+                        android:textAllCaps="true"
+                        android:paddingRight="@dimen/padding"
+                        android:text="Transactions"
+                        android:textColor="#2196F3" />
+
+                    <View
+                        android:id="@+id/rightBar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/textListHHeading"
+                        android:layout_alignParentRight="true"
+                        android:layout_toRightOf="@+id/textListHHeading"
+                        android:background="@color/light_gray" />
+                </RelativeLayout>
+                
+                <TextView 
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/secondry_text"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:visibility="visible"
+                    android:id="@+id/noViewLabel"
+                    android:text="@string/no_reminder"/>
+
+                <ListView
+                    android:id="@+id/reminderSelectedDate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/viewHeading"
+                    android:listSelector="@android:color/transparent" >
+                </ListView>
+            </RelativeLayout>
+
+            <!--<View-->
+                <!--android:id="@+id/bottom"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="50dp"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:background="@color/light_gray" />-->
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_height="match_parent" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <com.mindbees.expenditure.ui.FloatingActionButton
+                        android:id="@+id/expense"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginBottom="16dp"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginRight="16dp"
+                        android:visibility="gone"
+                        android:elevation="4dp"
+                        fab:fab_colorNormal="@color/green"
+                        fab:fab_colorPressed="@color/primary_clr"
+                        fab:fab_icon="@drawable/ic_action_new"
+                        fab:fab_size="normal" />
+                </RelativeLayout>
+            </FrameLayout>
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/parentView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:visibility="visible" >
+        </FrameLayout>
+    </com.mindbees.expenditure.ui.circular.widget.RevealFrameLayout>
+
+</com.mindbees.expenditure.ui.circular.FrameLayoutCompat>

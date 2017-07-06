@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/bg_half"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_" >
+
+        <com.echo.holographlibrary.PieGraph
+            android:id="@+id/piegraph"
+            android:layout_width="@dimen/pie_chart_h"
+            android:layout_height="@dimen/pie_chart_h"
+
+            android:layout_centerInParent="true"/>
+            <!--app:pieInnerCircleRatio="210"-->
+            <!--app:pieSlicePadding="0dip" />-->
+
+        <LinearLayout
+            android:id="@+id/centreCircle"
+            android:layout_width="@dimen/pie_chart_centre_h"
+            android:layout_height="@dimen/pie_chart_centre_h"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/round_top"
+                android:gravity="bottom|center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/reportDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/padding_tab"
+                    android:gravity="center"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/round_bottom"
+                android:gravity="top|center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/padding"
+                    android:singleLine="true"
+                    android:textAppearance="@android:style/TextAppearance.Medium"
+                    android:textColor="@color/secondry_text" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/symbol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:textAppearance="@android:style/TextAppearance.Small"
+                        android:textColor="@color/secondry_text" />
+
+                    <TextView
+                        android:id="@+id/reportRupees"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="2dp"
+                        android:singleLine="true"
+                        android:textAppearance="@android:style/TextAppearance.Small"
+                        android:textColor="@android:color/black" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/listReports"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="@dimen/padding"
+            android:paddingRight="@dimen/padding"
+            android:paddingTop="@dimen/padding" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_accounts.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_settings_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_type_cat.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_select_type_cat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\simple-crop-image-lib\\build\\intermediates\\bundles\\default\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tab_cat.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_tab_cat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_category_report_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_category_report_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_report_yearly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_report_yearly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_allreminders.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_allreminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_category_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_category_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transaction_history.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_transaction_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_category.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_create_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_remainder.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_remainder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_week.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tab_report_yearly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_tab_report_yearly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_type_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_select_type_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\98f2abe4b262c6ff522a41dfba24102ab936a5ce\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_chartlist.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_chartlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3b031ea39578a3e54487f208b7d4f87d6e09cb8c\\output\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_layout_eachcell_2.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\calender_layout_eachcell_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_change_pass.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\view_change_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_change_email.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\view_change_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_create_cat_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_create_cat_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_report_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_view_spinner.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_view_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tab.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tab_report_daily.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_tab_report_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_remove_category.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_remove_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_report_two.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_report_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ringing_dialog.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_ringing_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_account.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_add_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupeditcategoryexpens.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\popupeditcategoryexpens.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_currency.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\popup_currency.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_currency_item.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_currency_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\98f2abe4b262c6ff522a41dfba24102ab936a5ce\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_status.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_categorytab.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_categorytab.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\98f2abe4b262c6ff522a41dfba24102ab936a5ce\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calander_each_cell.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\calander_each_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_transactionhistory.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_transactionhistory.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_categorys.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_categorys.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_year.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_remove_view.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_remove_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chartview.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_chartview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_footer.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\layout_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category_income.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_category_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_card_layout.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\my_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_report_cat_income.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_report_cat_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reports.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_category_report.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_category_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tutorial.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cat_desc.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_cat_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_months.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_months.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_report_cat_expense.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_report_cat_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_footer.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\alarm_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\98f2abe4b262c6ff522a41dfba24102ab936a5ce\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\simple-crop-image-lib\\build\\intermediates\\bundles\\default\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_home_.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\98f2abe4b262c6ff522a41dfba24102ab936a5ce\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_account.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_edit_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_expnd_item.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_expnd_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_category.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_type.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_login_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tab_report_monthly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_tab_report_monthly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_categoryview.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_report_categoryview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c148c68ecf5089bf1945d6d560d60c4ada8049c7\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category_expense.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_category_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_acnt_status.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_acnt_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_type.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_select_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account_cat.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_account_cat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\currency_change.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\currency_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_passwrd.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_change_passwrd.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_reminder_list.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_reminder_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_category_create_new.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_category_create_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tutorial.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_list_header.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\98f2abe4b262c6ff522a41dfba24102ab936a5ce\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cat_cal.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_cat_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_category.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\activity_report_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_currency_layout.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_currency_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_report_daily.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_report_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_acnt.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\list_row_acnt.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_report_monthly.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\fragment_report_monthly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_add_category.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\popup_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_allreminders.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\layout\\inflate_allreminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3b031ea39578a3e54487f208b7d4f87d6e09cb8c\\output\\res\\layout\\residemenu.xml"
+    }
+]

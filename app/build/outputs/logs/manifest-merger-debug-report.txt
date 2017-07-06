@@ -1,0 +1,541 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:2:1-268:12
+	package
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User\.android\build-cache\65b770e8e9191cc55ad6d468627270219f232cb9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:23.4.0] C:\Users\User\.android\build-cache\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\User\.android\build-cache\f7fc92fbe30e88aa1f44de22dd965beea4fe90d3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\b999183ef57fba179ba2aee89e80b5cda8320652\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\9da924482f98308ac3c2254ca728c623d52dfb9c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\User\.android\build-cache\9a99d1c1b0b5d84065463930de1456b1a53c3756\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\User\.android\build-cache\f27ed3f4bed7939676c9513210726900d5629527\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\User\.android\build-cache\4b0d798c18d5e7a34b66c8c5ccffeed84f97e813\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\User\.android\build-cache\97960009a66dfc340796e8ed899d24cb21c50dc1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\User\.android\build-cache\85ba374059fdc37103a66f626217202cfa6ff93d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\User\.android\build-cache\23077f73b99f60cbb51da0586e539734acb3af95\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\User\.android\build-cache\252c731ac5a31c1cb6171d469296f22082f1d634\output\AndroidManifest.xml:18:5-42
+MERGED from [com.specyci:residemenu:1.6] C:\Users\User\.android\build-cache\3b031ea39578a3e54487f208b7d4f87d6e09cb8c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [Expenditure1:HoloGraphLibrary:unspecified] C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\HoloGraphLibrary\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [Expenditure1:library:unspecified] C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\User\.android\build-cache\1693ca58e5dcb576a56cb8d71e5a31dd6398c9ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\User\.android\build-cache\c6454ea57a98a07858a20bea7c3b9b0f3a78a4e6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\User\.android\build-cache\ad01f3c6a2677a82b70c6d67dedc0ec4b782d7dc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\User\.android\build-cache\31aabfce8f6737a82aaf3457a062bf984ab01e7d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\User\.android\build-cache\a5f643ecdabf4af00f55d7db92147f57ca73f291\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\User\.android\build-cache\439517664c47843636d4e079938ac3a048a5d352\output\AndroidManifest.xml:21:5-23:58
+MERGED from [Expenditure1:simple-crop-image-lib:unspecified] C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\simple-crop-image-lib\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\User\.android\build-cache\4b0d798c18d5e7a34b66c8c5ccffeed84f97e813\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\User\.android\build-cache\97960009a66dfc340796e8ed899d24cb21c50dc1\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\User\.android\build-cache\4b0d798c18d5e7a34b66c8c5ccffeed84f97e813\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\User\.android\build-cache\97960009a66dfc340796e8ed899d24cb21c50dc1\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\User\.android\build-cache\4b0d798c18d5e7a34b66c8c5ccffeed84f97e813\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\User\.android\build-cache\97960009a66dfc340796e8ed899d24cb21c50dc1\output\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:19:22-70
+application
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:21:5-266:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\User\.android\build-cache\ae1768a322be9c2dd9ebd41c74bfb673416ab36b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\b999183ef57fba179ba2aee89e80b5cda8320652\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\9da924482f98308ac3c2254ca728c623d52dfb9c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\User\.android\build-cache\9a99d1c1b0b5d84065463930de1456b1a53c3756\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\User\.android\build-cache\f27ed3f4bed7939676c9513210726900d5629527\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.2.0] C:\Users\User\.android\build-cache\4b0d798c18d5e7a34b66c8c5ccffeed84f97e813\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.2.0] C:\Users\User\.android\build-cache\97960009a66dfc340796e8ed899d24cb21c50dc1\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\User\.android\build-cache\85ba374059fdc37103a66f626217202cfa6ff93d\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\User\.android\build-cache\23077f73b99f60cbb51da0586e539734acb3af95\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\User\.android\build-cache\252c731ac5a31c1cb6171d469296f22082f1d634\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\User\.android\build-cache\1693ca58e5dcb576a56cb8d71e5a31dd6398c9ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\User\.android\build-cache\c6454ea57a98a07858a20bea7c3b9b0f3a78a4e6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\User\.android\build-cache\ad01f3c6a2677a82b70c6d67dedc0ec4b782d7dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\User\.android\build-cache\31aabfce8f6737a82aaf3457a062bf984ab01e7d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\User\.android\build-cache\a5f643ecdabf4af00f55d7db92147f57ca73f291\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\User\.android\build-cache\439517664c47843636d4e079938ac3a048a5d352\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:22:9-64
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:28:9-30:45
+	android:value
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:30:13-42
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:29:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\User\.android\build-cache\252c731ac5a31c1cb6171d469296f22082f1d634\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:32:13-58
+meta-data#com.google.android.gms.analytics.globalConfigResource
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:34:10-36:48
+	android:resource
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:36:7-45
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:35:7-75
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:38:9-42:16
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:41:13-45
+	android:configChanges
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:40:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:39:13-57
+activity#com.mindbees.expenditure.ActivitySplash
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:43:9-53:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:44:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.mindbees.expenditure.MainActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:54:9-59:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:58:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:55:13-65
+activity#com.mindbees.expenditure.Activity_LoginType
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:60:9-65:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:61:13-71
+activity#com.mindbees.expenditure.ActivityLogin
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:66:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:68:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:71:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:67:13-66
+activity#com.mindbees.expenditure.ActivityRegister
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:73:9-78:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:75:13-45
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:74:13-69
+activity#com.mindbees.expenditure.ActivityCredit_Debit
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:79:9-85:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:81:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:84:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:83:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:80:13-73
+activity#com.mindbees.expenditure.ActivityAddExpense_Income
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:86:9-92:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:88:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:91:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:90:13-53
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:87:13-78
+activity#com.mindbees.expenditure.reminder.RingingDialog
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:93:9-99:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:95:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:98:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:97:13-48
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:94:13-75
+activity#com.mindbees.expenditure.reminder.ActivityReminderDetails
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:100:9-106:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:103:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:102:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:105:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:104:13-48
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:101:13-85
+activity#com.mindbees.expenditure.ActivityChartView
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:114:9-120:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:116:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:119:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:118:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:115:13-70
+activity#com.mindbees.expenditure.ActivityStatus
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:121:9-127:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:123:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:126:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:125:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:122:13-67
+activity#com.mindbees.expenditure.ActivityAddAccount
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:128:9-135:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:130:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:133:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:132:13-53
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:129:13-71
+activity#com.mindbees.expenditure.ActivityEditAccount
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:136:9-142:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:138:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:137:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:140:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:139:13-53
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:136:19-54
+activity#com.mindbees.expenditure.ActivitySelectType
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:143:9-149:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:145:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:148:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:147:13-53
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:144:13-71
+activity#com.mindbees.expenditure.reminder.ActivitySetRemainder
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:150:9-157:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:152:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:156:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:155:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:151:13-82
+activity#com.mindbees.expenditure.ActivityReportCategoryView
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:158:9-164:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:160:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:163:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:162:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:159:13-79
+activity#com.mindbees.expenditure.ActivityCreateCategory
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:165:9-171:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:168:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:167:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:170:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:169:13-53
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:166:13-75
+activity#com.mindbees.expenditure.ActivityCreateCategoryTwo
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:172:9-178:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:174:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:177:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:176:13-53
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:173:13-78
+activity#com.mindbees.expenditure.ActivityReportTwo
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:179:9-185:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:182:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:181:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:184:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:183:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:180:13-70
+activity#com.mindbees.expenditure.ActivityTransactionHistory
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:186:9-193:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:188:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:191:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:190:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:187:13-55
+activity#com.mindbees.expenditure.Activitycurrencyset
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:194:9-200:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:196:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:195:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:198:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:197:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:194:19-54
+activity#com.mindbees.expenditure.TutorialActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:201:9-207:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:203:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:202:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:205:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:204:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:201:19-51
+activity#com.mindbees.expenditure.ActivityReportCategory
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:208:9-213:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:210:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:209:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:212:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:211:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:208:19-57
+activity#com.mindbees.expenditure.ActivityChangePasswrd
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:214:9-220:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:217:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:216:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:219:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:218:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:215:13-74
+activity#com.mindbees.expenditure.ActivityContact
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:222:8-228:20
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:225:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:224:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:227:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:226:13-52
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:223:13-68
+activity#eu.janmuller.android.simplecropimage.CropImage
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:229:9-234:57
+	android:screenOrientation
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:232:13-49
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:231:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:234:13-54
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:233:13-44
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:230:13-74
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:240:9-246:20
+	android:enabled
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:242:13-35
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:241:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:243:13-245:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:244:17-94
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:244:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:248:9-251:40
+	android:enabled
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:250:13-35
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:251:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:249:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:257:9-263:20
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:259:13-36
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:258:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:260:13-262:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:261:17-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:261:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:265:9-92
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Expenditure\Expenditure1\app\src\main\AndroidManifest.xml:265:18-89
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\User\.android\build-cache\c148c68ecf5089bf1945d6d560d60c4ada8049c7\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\b999183ef57fba179ba2aee89e80b5cda8320652\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\9da924482f98308ac3c2254ca728c623d52dfb9c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\User\.android\build-cache\9a99d1c1b0b5d84065463930de1456b1a53c3756\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\User\.android\build-cache\f27ed3f4bed7939676c9513210726900d5629527\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\User\.android\build-cache\1693ca58e5dcb576a56cb8d71e5a31dd6398c9ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\User\.android\build-cache\c6454ea57a98a07858a20bea7c3b9b0f3a78a4e6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\User\.android\build-cache\ad01f3c6a2677a82b70c6d67dedc0ec4b782d7dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\User\.android\build-cache\31aabfce8f6737a82aaf3457a062bf984ab01e7d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\User\.android\build-cache\a5f643ecdabf4af00f55d7db92147f57ca73f291\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\User\.android\build-cache\439517664c47843636d4e079938ac3a048a5d352\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\80c8e67520c95f3a18fea4f9e3c4942ffe4e4bc2\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\User\.android\build-cache\85ba374059fdc37103a66f626217202cfa6ff93d\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\User\.android\build-cache\85ba374059fdc37103a66f626217202cfa6ff93d\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\User\.android\build-cache\85ba374059fdc37103a66f626217202cfa6ff93d\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\User\.android\build-cache\85ba374059fdc37103a66f626217202cfa6ff93d\output\AndroidManifest.xml:20:19-85

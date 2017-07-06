@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="residemenu-1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3b031ea39578a3e54487f208b7d4f87d6e09cb8c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3b031ea39578a3e54487f208b7d4f87d6e09cb8c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3b031ea39578a3e54487f208b7d4f87d6e09cb8c/output/jars/libs/nineoldandroids-library-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.specyci/residemenu/1.6/b007d1a1be8d78cca27fbbd958a3aec018150433/residemenu-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

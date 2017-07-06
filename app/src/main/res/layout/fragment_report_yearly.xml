@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_clr"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/padding_"
+        android:paddingRight="@dimen/padding_" >
+
+        <RelativeLayout
+            android:id="@+id/topview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:id="@+id/top"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/curntMonth"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:gravity="center"
+                    android:text="2015 - 2026"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                    android:textColor="@android:color/white" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/calendar_week"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/top"
+                android:background="@color/primary_clr"
+                android:listSelector="@color/primary_clr"
+                android:numColumns="4"
+                android:visibility="visible" />
+            <!--
+        <GridView
+            android:id="@+id/calendar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/calendar_week"
+            android:background="@android:color/transparent"
+            android:numColumns="7"
+            android:paddingLeft="@dimen/padding_"
+            android:paddingRight="@dimen/padding_" >
+        </GridView>
+            -->
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/viewPagerview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topview"
+            android:layout_marginTop="@dimen/padding_"
+            android:background="@android:color/white"
+            android:visibility="gone" >
+
+            <RelativeLayout
+                android:id="@+id/viewHeading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/addData"
+                android:layout_marginTop="@dimen/padding_" >
+
+                <View
+                    android:id="@+id/leftBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/textCat"
+                    android:layout_alignParentLeft="true"
+                    android:layout_toLeftOf="@+id/textCat"
+                    android:background="@color/light_gray" />
+
+                <TextView
+                    android:id="@+id/textCat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:paddingLeft="@dimen/padding"
+                    android:paddingRight="@dimen/padding"
+                    android:text="CATEGORY"
+                    android:textColor="@android:color/black"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:id="@+id/rightBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/textCat"
+                    android:layout_alignParentRight="true"
+                    android:layout_toRightOf="@+id/textCat"
+                    android:background="@color/light_gray" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/qaz"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/viewHeading" >
+
+                <ImageView
+                    android:id="@+id/imgLeft"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:background="@android:color/transparent"
+                    android:padding="@dimen/padding_tab"
+                    android:src="@drawable/reminder_left_arow"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager_avatar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/viewpager_height"
+                android:layout_below="@+id/viewHeading"
+                android:layout_toLeftOf="@+id/wsx"
+                android:layout_toRightOf="@+id/qaz"
+                android:padding="5dp" />
+
+            <RelativeLayout
+                android:id="@+id/wsx"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/viewHeading" >
+
+                <ImageView
+                    android:id="@+id/imgRight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:background="@android:color/transparent"
+                    android:padding="@dimen/padding_tab"
+                    android:src="@drawable/reminder_right_arow"
+                    android:visibility="visible" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bbb"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edittext_hight"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/white"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imgOK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding"
+               />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

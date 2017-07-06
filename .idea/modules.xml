@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Expenditure1.iml" filepath="$PROJECT_DIR$/Expenditure1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoloGraphLibrary/HoloGraphLibrary.iml" filepath="$PROJECT_DIR$/HoloGraphLibrary/HoloGraphLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-crop-image-lib/simple-crop-image-lib.iml" filepath="$PROJECT_DIR$/simple-crop-image-lib/simple-crop-image-lib.iml" />
+    </modules>
+  </component>
+</project>

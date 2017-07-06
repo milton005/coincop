@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mindbees.expenditure"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:name="com.mindbees.expenditure.app.Expenditure"
+        android:allowBackup="true"
+
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/fb_id" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+         <meta-data
+      android:name="com.google.android.gms.analytics.globalConfigResource"
+      android:resource="@xml/global_tracker" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+             />
+        <activity
+            android:name="com.mindbees.expenditure.ActivitySplash"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenSplsh" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.Activity_LoginType"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenSplsh" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityLogin"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenSplsh"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityRegister"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenSplsh" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityCredit_Debit"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityAddExpense_Income"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.reminder.RingingDialog"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/myringDialog"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.reminder.ActivityReminderDetails"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/myringDialog"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <!--<activity-->
+            <!--android:name="com.mindbees.expenditure.ActivityReport"-->
+            <!--android:label="@string/app_name"-->
+            <!--android:screenOrientation="portrait"-->
+            <!--android:theme="@style/Theme.FullScrenn"-->
+            <!--android:windowSoftInputMode="stateHidden" >-->
+        <!--</activity>-->
+        <activity
+            android:name="com.mindbees.expenditure.ActivityChartView"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityStatus"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityAddAccount"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent"
+            android:windowSoftInputMode="stateHidden" >
+
+        </activity>
+        <activity android:name=".ActivityEditAccount"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent"
+            android:windowSoftInputMode="stateHidden" >
+
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivitySelectType"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.reminder.ActivitySetRemainder"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityReportCategoryView"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityCreateCategory"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityCreateCategoryTwo"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityReportTwo"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".ActivityTransactionHistory"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+
+        </activity>
+        <activity android:name=".Activitycurrencyset"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+
+        </activity>
+        <activity android:name=".TutorialActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+
+        </activity>
+        <activity android:name=".ActivityReportCategory"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.mindbees.expenditure.ActivityChangePasswrd"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        
+       <activity
+            android:name="com.mindbees.expenditure.ActivityContact"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FullScrenn"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="eu.janmuller.android.simplecropimage.CropImage"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateHidden" />
+
+        <!--
+         Optionally, register AnalyticsReceiver and AnalyticsService to support background
+         dispatching on non-Google Play devices
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!--
+         Optionally, register CampaignTrackingReceiver and CampaignTrackingService to enable
+         installation campaign reporting
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
+    </application>
+
+</manifest>

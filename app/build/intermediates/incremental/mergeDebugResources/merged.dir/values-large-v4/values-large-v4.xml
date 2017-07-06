@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_config_prefDialogWidth">440dp</dimen>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">90%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">55%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">80%</item>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="edittext_cat_w">200dp</dimen>
+    <dimen name="edittext_hight">50dp</dimen>
+    <dimen name="edittext_hight_desc">60dp</dimen>
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_stroke_width">1dp</dimen>
+    <dimen name="padding">7dp</dimen>
+    <dimen name="padding_">25dp</dimen>
+    <dimen name="padding_tab">12dp</dimen>
+    <dimen name="padding_toolbar_img">3dp</dimen>
+    <dimen name="paddingt">6dp</dimen>
+    <dimen name="pichart_top_hight">800dp</dimen>
+    <dimen name="pie_chart_centre_h">190dp</dimen>
+    <dimen name="pie_chart_h">260dp</dimen>
+    <dimen name="splag_blue_bh_radius">170dp</dimen>
+    <dimen name="splash_arow_padding_btm">30dp</dimen>
+    <dimen name="splash_blue_bg_pad_top">50dp</dimen>
+    <dimen name="submit_tick">10dp</dimen>
+    <dimen name="totallayout_hight">70dp</dimen>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.Dialog.FixedSize"/>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.Dialog.FixedSize"/>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_clr"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/topview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:orientation="horizontal"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp" >
+
+            <ImageButton
+                android:id="@+id/prevMonth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:background="@android:color/transparent"
+                android:paddingBottom="@dimen/padding"
+                android:paddingTop="@dimen/padding"
+                android:src="@drawable/side_menu_aro" />
+
+            <ImageButton
+                android:id="@+id/nextMonth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@android:color/transparent"
+                android:paddingBottom="@dimen/padding"
+                android:paddingTop="@dimen/padding"
+                android:src="@drawable/side_menu_right_arow" />
+
+            <TextView
+                android:id="@+id/curntMonth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/nextMonth"
+                android:layout_toRightOf="@+id/prevMonth"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <GridView
+            android:id="@+id/calendar_week"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/top"
+            android:background="@android:color/transparent"
+            android:clickable="false"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="7"></GridView>
+            <!--android:paddingLeft="@dimen/padding_"-->
+            <!--android:paddingRight="@dimen/padding_" />-->
+
+        <GridView
+            android:id="@+id/calendar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/calendar_week"
+            android:background="@android:color/transparent"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="7">
+            <!--android:paddingLeft="@dimen/padding_"-->
+            <!--android:paddingRight="@dimen/padding_" >-->
+        </GridView>
+    </RelativeLayout>
+
+</RelativeLayout>

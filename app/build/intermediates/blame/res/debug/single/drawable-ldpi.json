@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_category.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\ic_category.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\report_top.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\report_top.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_expense.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\ic_expense.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\green_aro.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\green_aro.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_account.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\report_heading.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\report_heading.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_income.png",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Expenditure\\Expenditure1\\app\\src\\main\\res\\drawable-ldpi\\ic_income.png"
+    }
+]
